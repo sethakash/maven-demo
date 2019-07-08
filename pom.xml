@@ -6,6 +6,7 @@
 
     <groupId>com.jenkov</groupId>
 
+         
     <artifactId>hello-world</artifactId>
 
     <version>1.0.0</version>
